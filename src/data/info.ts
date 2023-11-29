@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://alvin.deno.dev",
+  baseUrl: "https://alvinfadli.deno.dev",
   name: "Alvin Fadli Dwi Mulya",
   jobDescription: "Software Engineer",
   about: `Final year software engineering student who passionate about all things technology and software development. My particular area of interest lies in backend development, where I enjoy working with databases, APIs, and other backend technologies to build robust and efficient systems.
